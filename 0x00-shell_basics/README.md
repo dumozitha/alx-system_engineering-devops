@@ -1,1 +1,1 @@
-Display contant of list in your current directory
+Changing working directory to users home directory
